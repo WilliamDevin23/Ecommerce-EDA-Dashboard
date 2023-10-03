@@ -1,5 +1,5 @@
 # Setup Environment
-conda create --name main-ds python=3.9
+conda create --name main-ds python=3.10
 
 conda activate main-ds
 
